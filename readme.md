@@ -1,3 +1,6 @@
+# About this Fork
+This fork includes firmware customizations for the keyboards I use. Currently cannonkeys/savage65.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
